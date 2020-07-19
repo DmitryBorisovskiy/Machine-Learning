@@ -1,2 +1,2 @@
 # Machine-Learning
-Application of machine learning in pridicting heart disease 
+Application of machine learning in predicting heart disease 
